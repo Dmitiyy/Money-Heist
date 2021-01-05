@@ -1,0 +1,21 @@
+[1229/100330.702:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1229/192547.966:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1229/192547.716:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1229/192548.231:ERROR:exception_snapshot_win.cc(99)] thread ID 6524 not found in process
+[1229/192548.231:ERROR:exception_snapshot_win.cc(99)] thread ID 1800 not found in process
+[1229/192547.716:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[1229/192548.700:ERROR:exception_snapshot_win.cc(99)] thread ID 10864 not found in process
+[1230/102443.490:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1230/145323.527:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[1231/102849.140:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0102/101908.143:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0102/130226.414:ERROR:process_info.cc(98)] ReadProcessMemory UNICODE_STRING: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0102/130226.695:ERROR:process_info.cc(118)] ReadProcessMemory bool __cdecl crashpad::(anonymous namespace)::ReadStruct(HANDLE, crashpad::WinVMAddress, T *) [T = crashpad::process_types::LDR_DATA_TABLE_ENTRY<crashpad::process_types::internal::Traits64>]: Запрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0102/130226.695:ERROR:process_info.cc(329)] VirtualQueryEx: Отказано в доступе. (0x5)
+[0102/130226.695:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0102/140514.377:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0103/101429.023:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0104/092231.257:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0104/155940.489:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0105/092050.171:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0105/151514.960:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)

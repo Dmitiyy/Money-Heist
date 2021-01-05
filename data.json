@@ -1,0 +1,76 @@
+{
+    "actors": [
+        {
+            "name": "Úrsula Corberó",
+            "descr": "Úrsula Corberó Delgado (born August 11, 1989) is a Spanish actress. She is best known for her roles as Ruth Gómez in Física o química (2008–2010), Margarita de Austria in the television series Isabel (2014) and Marta in the comedy film Cómo Sobrevivir a una Despedida (2015). She gained international fame after her role as Tokyo in the Antena 3 (later, Netflix) series La Casa de Papel (Money Heist; since 2017).",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Premios_Goya_2018_-_%C3%9Arsula_Corber%C3%B3_%28cropped%29.jpg/220px-Premios_Goya_2018_-_%C3%9Arsula_Corber%C3%B3_%28cropped%29.jpg",
+            "id": "ac856t1"
+        },
+        {
+            "name": "Álvaro Morte",
+            "descr": "Álvaro Antonio García Pérez[1] (born February 23, 1975), known professionally as Álvaro Morte, is a Spanish actor. He gained worldwide recognition playing the role of Sergio 'El Profesor' Marquina in the Spanish heist series Money Heist (La Casa De Papel), originally aired on Antena 3 and broadcast on Netflix.",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Festival_de_cinema_de_Sitges_2018_%2831305141408%29_%28cropped2%29.jpg/220px-Festival_de_cinema_de_Sitges_2018_%2831305141408%29_%28cropped2%29.jpg",
+            "id": "ac856t2"
+        },
+        {
+            "name": "Itziar Ituño",
+            "descr": "Itziar Ituño Martínez (born June 18, 1974) is a Basque actress. She is best known for her role as Inspector Raquel Murillo in the Spanish television series Money Heist (La casa de papel).",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Itziar_Itu%C3%B1o_2019_%28cropped%29.jpg/220px-Itziar_Itu%C3%B1o_2019_%28cropped%29.jpg",
+            "id": "ac856t3"
+        },
+        {
+            "name": "Pedro Alonso",
+            "descr": "Pedro González Alonso (born 21 June 1971) is a Spanish actor, writer and artist. He is best known for his role of Andrés 'Berlin' de Fonollosa in the Spanish heist series Money Heist (La casa de papel) and for the role of Diego Murquía in the historical drama series Gran Hotel.",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Pedro_Alonso.jpg/220px-Pedro_Alonso.jpg",
+            "id": "ac856t4"
+        },
+        {
+            "name": "Alba Flores",
+            "descr": "Alba González Villa (born October 27, 1986), known professionally as Alba Flores, is a Spanish actress. She is best known for her roles as Saray Vargas in Vis a Vis (Locked Up) and Nairobi in La Casa de Papel (Money Heist).",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alba_Flores_2017.jpg/220px-Alba_Flores_2017.jpg",
+            "id": "ac856t5"
+        },
+        {
+            "name": "Paco Tous",
+            "descr": "Francisco Martínez Tous (born 1 May 1964), known professionally as Paco Tous, is a Spanish actor. He is best known for his starring roles as Paco in the television series Los hombres de Paco (2005–2010; 2021) and as Agustín 'Moscow' Ramos in the television series La casa de papel, which premiered in 2017.",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paco_Tous_-_Seminci_2016_%28cropped%29.jpg/220px-Paco_Tous_-_Seminci_2016_%28cropped%29.jpg",
+            "id": "ac856t6"
+        },
+        {
+            "name": "Miguel Herrán",
+            "descr": "Miguel Herrán (born 25 April 1996) is a Spanish actor. He is best known for playing the roles of Aníbal 'Río' Cortés in Money Heist and Christian Varela in Élite. In 2016, he won the Goya Award for Best New Actor for his role in the film Nothing in Return.",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Festival_de_M%C3%A1laga_2020_-_Miguel_Herr%C3%A1n-2.jpg/220px-Festival_de_M%C3%A1laga_2020_-_Miguel_Herr%C3%A1n-2.jpg",
+            "id": "ac856t7"
+        },
+        {
+            "name": "Jaime Lorente",
+            "descr": "Jaime Lorente López (born December 12, 1991), is a Spanish actor.[1] He is best known for playing the roles of Daniel 'Denver' Ramos in Money Heist and Fernando 'Nano' García Domínguez in Élite.",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Festival_de_cinema_de_Sitges_2018_%2845178829451%29_%28cropped%29.jpg/220px-Festival_de_cinema_de_Sitges_2018_%2845178829451%29_%28cropped%29.jpg",
+            "id": "ac856t8"
+        },
+        {
+            "name": "Esther Acebo",
+            "descr": "Esther Acebo (born 19 January 1983, Madrid)[1] is a Spanish actress, presenter and reporter. As an actress she has appeared in Los encantados (2016) and achieved worldwide fame in Money Heist (2017).",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Esther_Acebo.jpg/220px-Esther_Acebo.jpg",
+            "id": "ac856t9"
+        },
+        {
+            "name": "Enrique Arce",
+            "descr": "Enrique Javier Arce Temple (born October 8, 1972) is a Spanish television and film actor.",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Enriquearce.jpg/220px-Enriquearce.jpg",
+            "id": "ac856t10"
+        },
+        {
+            "name": "Darko Perić",
+            "descr": "Darko Perić (Serbian Cyrillic: Дарко Перић; born 25 March 1977) is a Serbian actor. He is best known for playing Helsinki in the Spanish crime thriller series La casa de papel (2017–present).",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Darko_Peric_BW.jpg/230px-Darko_Peric_BW.jpg",
+            "id": "ac856t11"
+        },
+        {
+            "name": "Rodrigo de la Serna",
+            "descr": "Rodrigo de la Serna (Spanish pronunciation: [roˈðɾiɣo ðe la ˈseɾna]; born April 18, 1976 in Buenos Aires) is an Argentine actor.",
+            "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Rodrigo_de_la_Serna-F%C3%A9nix_2017_%28cropped%29.jpg/200px-Rodrigo_de_la_Serna-F%C3%A9nix_2017_%28cropped%29.jpg",
+            "id": "ac856t12"
+        }
+    ]
+}

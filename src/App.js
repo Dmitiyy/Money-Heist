@@ -1,24 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.sass";
+import { Provider } from "react-redux";
+import store from "./store";
+import {createMuiTheme, ThemeProvider} from '@material-ui/core/styles';
+import Header from "./components/Header/";
+import Plot from "./components/Plot/";
+import Best from "./components/Best/";
+import Photos from "./components/Photos/";
+import Actors from './components/Actors/';
+import Footer from "./components/Footer/";
+
+const theme = createMuiTheme({
+  typography: {
+    h1: {
+      fontFamily: 'Compact-bol'
+    },
+    h2: {
+      fontFamily: 'Compact-reg'
+    }
+  }
+})
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Provider store={store}>
+      <ThemeProvider theme={theme}> 
+        <Header />
+        <Plot />
+        <Best />
+        <Photos />
+        <Actors />
+        <Footer />
+      </ThemeProvider>
+    </Provider>
   );
 }
 

@@ -1,0 +1,186 @@
+.header
+    width: 100%
+    // min-height: 100vh
+    height: 100vh
+    position: relative
+    &_bg
+        width: 100%
+        // max-height: 100%
+        background-image: url('../../assets/images/bg2.jpg')
+        background-repeat: no-repeat
+        background-position: bottom center
+        background-size: cover 
+        transform: scale(-1, 1)
+        position: absolute
+        top: 0
+        left: 0
+        right: 0
+        bottom: 0
+        z-index: 1
+    &_main
+        width: 100%
+        // min-height: 100%
+        position: absolute
+        position: absolute
+        top: 0
+        left: 0
+        right: 0
+        bottom: 0
+        z-index: 2
+        &_blur
+            width: 50%
+            // min-height: 100%
+            height: 100%
+            background: rgba(0, 0, 0, 0.6)
+            backdrop-filter: blur(32px)
+            border-right: 5px solid black
+        &-wrap
+            width: 600px
+            height: 410px
+.main_descr
+    color: white
+
+@media (max-height: 400px)
+    .header_main_blur
+        height: 500px
+
+    .header
+        margin-bottom: 208px
+
+    .header_bg
+        height: 500px
+        
+@media  (min-width: 1001px)
+    .header_main-wrap
+        height: 570px
+    
+@media ( max-width: 1260px ) and ( min-width: 1001px )
+    .header_main_blur
+        width: 70%
+    .header_main-wrap
+        height: 570px
+
+    
+@media ( max-width: 1000px ) and ( min-width: 591px )
+    .header_main_blur
+        width: 100%
+        backdrop-filter: blur(0px)
+        border-right: none
+    .main_title
+        text-align: center
+        width: 100%
+    .main_descr
+        text-align: center
+        width: 100%
+    .main_btn
+        margin: 0 auto
+@media ( max-width: 590px ) and ( min-width: 477px )
+    .header_main_blur
+        width: 100%
+        backdrop-filter: blur(0px)
+        border-right: none
+    .main_title
+        text-align: center
+        width: 100%
+    .main_descr
+        text-align: center
+        width: 100%
+    .main_btn
+        margin: 0 auto
+    
+@media ( max-width: 476px ) and ( min-width: 401px )
+    .header_main_blur
+        width: 100%
+        backdrop-filter: blur(0px)
+        border-right: none
+        // height: 600px
+    .main_title
+        text-align: center
+        width: 100%
+    .makeStyles-title-14
+        width: 100%
+        text-align: center
+        font-size: 70px;
+    .makeStyles-descr-13
+        width: 100%
+        text-align: center
+    .main_descr
+        text-align: center
+        width: 100%
+    .main_btn
+        margin: 0 auto
+    .header_main-wrap
+        height: 330px
+    .header
+        // height: 400px
+    .header_bg
+        // height: 600px
+        // margin-bottom: 50px 
+
+
+// @media ( max-width: 381px ) 
+//     .header_main_blur
+//         width: 100%
+
+@media ( max-width: 375px ) and (min-height: 667px) 
+    .header_main_blur
+        width: 100%
+        backdrop-filter: blur(0px)
+        border-right: none
+        height: 600px
+    .main_title
+        text-align: center
+        width: 100%
+    .main_descr
+        text-align: center
+        width: 100%
+    .main_btn
+        margin: 0 auto
+    .header_main-wrap
+        height: 330px
+    .header
+        height: 600px
+    .header_bg
+        height: 600px
+    
+    
+@media ( max-width: 400px ) and ( min-width: 348px )
+    .header_main_blur
+        width: 100%
+        backdrop-filter: blur(0px)
+        border-right: none
+        height: 600px
+    .main_title
+        text-align: center
+        width: 100%
+    .main_descr
+        text-align: center
+        width: 100%
+    .main_btn
+        margin: 0 auto
+    .header_main-wrap
+        height: 330px
+    .header
+        height: 600px
+    .header_bg
+        height: 600px
+@media ( max-width: 347px ) and ( min-width: 300px )
+    .header_main_blur
+        width: 100%
+        backdrop-filter: blur(0px)
+        border-right: none
+        height: 500px
+    .main_title
+        text-align: center
+        width: 100%
+    .main_descr
+        text-align: center
+        width: 100%
+    .main_btn
+        margin: 0 auto
+    .header_main-wrap
+        height: 330px
+    .header
+        height: 500px
+    .header_bg
+        height: 500px
